@@ -101,14 +101,3 @@ Crie um pequeno sistema que use **funções, arrays e objetos** juntos:
 4. Crie uma função `aprovados()` que mostre apenas os alunos com média ≥ 6.
 5. Faça o programa testar essas funções no final.
 
----
-
-Quer que eu monte essa lista em **formato de atividade para aplicar**, com:
-
-* cabeçalho (nome, turma, data),
-* espaço para respostas,
-* seções numeradas com ícones e divisores,
-  para deixar visual e fácil de seguir?
-
-Posso gerar em `.docx` ou `.pdf` (pronto pra imprimir ou subir no Teams).
-Quer que eu monte esse arquivo agora?
